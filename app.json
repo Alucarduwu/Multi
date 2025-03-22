@@ -1,0 +1,28 @@
+{
+  "expo": {
+    "name": "demo",
+    "slug": "demo",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/LOGO.jpg",
+    "userInterfaceStyle": "light",
+    "newArchEnabled": true,
+    "splash": {
+      "image": "",
+      "resizeMode": "contain",
+      "backgroundColor": "#82e"
+    },
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "",
+        "backgroundColor": "#ffffff"
+      }
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    }
+  }
+}
